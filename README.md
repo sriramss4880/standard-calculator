@@ -107,10 +107,10 @@ Publish the website in the given URL.
 ## OUTPUT:
 ### SERVER OUTPUT:
 
-![Screenshot 2023-05-19 095637](https://github.com/sriramss4880/standard-calculator/assets/120554177/4f8f4d74-95a1-4ce6-8b35-38432162fee2)
-
+![Screenshot (32)](https://github.com/sriramss4880/standard-calculator/assets/120554177/652a8d98-619b-41d5-b9db-3a47dc4ff9db)
 ### CLIENT OUTPUT:
-![Screenshot 2023-05-19 095705](https://github.com/sriramss4880/standard-calculator/assets/120554177/17615b56-e182-4f9c-9c0f-af2c11c0b35e)
+![Screenshot (31)](https://github.com/sriramss4880/standard-calculator/assets/120554177/d247de43-7b5b-4837-88c1-8b72605bc2ad)
+
 
 ## Result:
 The program for designing a simple calculator using JavaScript is executed successfully
